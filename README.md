@@ -5,3 +5,5 @@ This repo will contain code for:
 - LeetCode
 - CodeWars
 - Advent of Code
+- Project Euler
+- 
